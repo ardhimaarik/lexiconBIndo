@@ -53,3 +53,6 @@ Errors: 16
 WER: 0.800
 Accuracy: 0.200
 ```
+
+# note
+you need more data to increase accuracy
